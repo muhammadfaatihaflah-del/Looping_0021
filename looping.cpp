@@ -51,4 +51,7 @@ int main(){
     cin >> nilM;
     cout << "Masukkan nilai Bahasa Inggris = ";
     cin >> nilB;
+
+    rerata = (nilB + nilM) / 2;
+
 }
